@@ -1,6 +1,7 @@
 package week2;
 import java.io.IOException;
 public class Guess2 {
+    //example with if and else
     public static void main(String[] args) throws IOException {
         char ch, answer = 'K';
         System.out.println("Think about letter from A-Z.");
