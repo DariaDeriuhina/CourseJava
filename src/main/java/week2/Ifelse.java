@@ -1,6 +1,7 @@
 package week2;
 
 public class Ifelse {
+    // if + elseif
     public static void main(String args[]) {
         int month = 4; // April
         String season;
