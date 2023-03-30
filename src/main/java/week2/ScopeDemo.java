@@ -1,6 +1,7 @@
 package week2;
 
 public class ScopeDemo {
+    // work with variables
     public static void main(String[] args) {
             int x; //Эта переменная доступна для всего кода в методе main
             x = 10;
