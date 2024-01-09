@@ -13,5 +13,8 @@ public class StepikModule3 {
         } else {
             System.out.println("Access denied");
         }
+
+        int value8 = 6;
+        int value9 = 8;
     }
 }
