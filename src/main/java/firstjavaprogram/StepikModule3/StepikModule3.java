@@ -15,6 +15,7 @@ public class StepikModule3 {
         }
 
         int value8 = 6;
-        int value9 = 8;
+        int value9 = 9;
+        int value4 = 24;
     }
 }
